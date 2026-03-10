@@ -1,4 +1,4 @@
-//vector2
+//vector2 
 //reversing the byte ordering or swapping 
 module top_module( 
     input [31:0] in,
